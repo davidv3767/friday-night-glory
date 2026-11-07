@@ -1,0 +1,309 @@
+{
+    "teams": {
+        "1": {
+            "name": "Salem Spartans",
+            "primary color": "#800000",
+            "secondary color": "#C0C0C0"
+        },
+        "2": {
+            "name": "William Byrd Terriers",
+            "primary color": "#008000",
+            "secondary color": "#FFD700"
+        },
+        "3": {
+            "name": "Cave Spring Knights",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "4": {
+            "name": "Hidden Valley Titans",
+            "primary color": "#FF0000",
+            "secondary color": "#000000"
+        },
+        "5": {
+            "name": "Glenvar Highlanders",
+            "primary color": "#0000FF",
+            "secondary color": "#FFD700"
+        },
+        "6": {
+            "name": "Northside Vikings",
+            "primary color": "#0000FF",
+            "secondary color": "#FFFFFF"
+        },
+        "7": {
+            "name": "Lord Botetourt Cavaliers",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "8": {
+            "name": "James River Knights",
+            "primary color": "#0000FF",
+            "secondary color": "#FFFFFF"
+        },
+        "9": {
+            "name": "Patrick Henry Patriots",
+            "primary color": "#FF0000",
+            "secondary color": "#0000FF"
+        },
+        "10": {
+            "name": "William Fleming Colonels",
+            "primary color": "#FFA500",
+            "secondary color": "#000000"
+        },
+        "11": {
+            "name": "Pulaski County Cougars",
+            "primary color": "#800000",
+            "secondary color": "#FFD700"
+        },
+        "12": {
+            "name": "Christiansburg Blue Demons",
+            "primary color": "#4169E1",
+            "secondary color": "#FFFFFF"
+        },
+        "13": {
+            "name": "Blacksburg Bruins",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "14": {
+            "name": "Radford Bobcats",
+            "primary color": "#800000",
+            "secondary color": "#FFD700"
+        },
+        "15": {
+            "name": "Carroll County Cavaliers",
+            "primary color": "#0000FF",
+            "secondary color": "#FFD700"
+        },
+        "16": {
+            "name": "Floyd County Buffaloes",
+            "primary color": "#0000FF",
+            "secondary color": "#FFD700"
+        },
+        "17": {
+            "name": "Giles Spartans",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "18": {
+            "name": "Narrows Green Wave",
+            "primary color": "#008000",
+            "secondary color": "#FFFFFF"
+        },
+        "19": {
+            "name": "Auburn Eagles",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "20": {
+            "name": "Eastern Montgomery Mustangs",
+            "primary color": "#228B22",
+            "secondary color": "#FFD700"
+        },
+        "21": {
+            "name": "Franklin County Eagles",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "22": {
+            "name": "Liberty Minutemen",
+            "primary color": "#FF0000",
+            "secondary color": "#0000FF"
+        },
+        "23": {
+            "name": "Jefferson Forest Cavaliers",
+            "primary color": "#000080",
+            "secondary color": "#87CEFA"
+        },
+        "24": {
+            "name": "Staunton River Golden Eagles",
+            "primary color": "#228B22",
+            "secondary color": "#FFD700"
+        },
+        "25": {
+            "name": "Brookville Bees",
+            "primary color": "#000080",
+            "secondary color": "#FFD700"
+        },
+        "26": {
+            "name": "E.C. Glass Hilltoppers",
+            "primary color": "#0000FF",
+            "secondary color": "#FFFFFF"
+        },
+        "27": {
+            "name": "Amherst County Lancers",
+            "primary color": "#FF0000",
+            "secondary color": "#FFFFFF"
+        },
+        "28": {
+            "name": "Heritage Pioneers",
+            "primary color": "#228B22",
+            "secondary color": "#FFD700"
+        },
+        "29": {
+            "name": "Rustburg Red Devils",
+            "primary color": "#FF0000",
+            "secondary color": "#FFFFFF"
+        },
+        "30": {
+            "name": "Alleghany Mountaineers",
+            "primary color": "#0000FF",
+            "secondary color": "#FFD700"
+        },
+        "31": {
+            "name": "Magna Vista Warriors",
+            "primary color": "#4169E1",
+            "secondary color": "#FFD700"
+        },
+        "32": {
+            "name": "Bassett Bengals",
+            "primary color": "#000000",
+            "secondary color": "#FFD700"
+        },
+        "33": {
+            "name": "Patrick County Cougars",
+            "primary color": "#008000",
+            "secondary color": "#FFD700"
+        },
+        "34": {
+            "name": "Martinsville Bulldogs",
+            "primary color": "#FF0000",
+            "secondary color": "#000000"
+        },
+        "35": {
+            "name": "Galax Maroon Tide",
+            "primary color": "#800000",
+            "secondary color": "#FFFFFF"
+        },
+        "36": {
+            "name": "Grayson County Blue Devils",
+            "primary color": "#000080",
+            "secondary color": "#C0C0C0"
+        },
+        "37": {
+            "name": "Fort Chiswell Pioneers",
+            "primary color": "#0000FF",
+            "secondary color": "#FFD700"
+        },
+        "38": {
+            "name": "George Wythe Maroons",
+            "primary color": "#800000",
+            "secondary color": "#FFFFFF"
+        },
+        "39": {
+            "name": "Bland County Bears",
+            "primary color": "#000080",
+            "secondary color": "#FFFFFF"
+        },
+        "40": {
+            "name": "Graham G-Men",
+            "primary color": "#0000FF",
+            "secondary color": "#FF0000"
+        },
+        "41": {
+            "name": "Richlands Blue Tornado",
+            "primary color": "#0000FF",
+            "secondary color": "#FFFFFF"
+        },
+        "42": {
+            "name": "Tazewell Bulldogs",
+            "primary color": "#008000",
+            "secondary color": "#FFFFFF"
+        },
+        "43": {
+            "name": "Virginia High Bearcats",
+            "primary color": "#FFA500",
+            "secondary color": "#000000"
+        },
+        "44": {
+            "name": "John S. Battle Trojans",
+            "primary color": "#008000",
+            "secondary color": "#FFD700"
+        },
+        "45": {
+            "name": "Abingdon Falcons",
+            "primary color": "#FF0000",
+            "secondary color": "#FFFFFF"
+        },
+        "46": {
+            "name": "Marion Scarlet Hurricanes",
+            "primary color": "#FF2400",
+            "secondary color": "#FFFFFF"
+        },
+        "47": {
+            "name": "Chilhowie Warriors",
+            "primary color": "#FFA500",
+            "secondary color": "#000000"
+        },
+        "48": {
+            "name": "Patrick Henry Rebels",
+            "primary color": "#FF0000",
+            "secondary color": "#0000FF"
+        },
+        "49": {
+            "name": "Holston Cavaliers",
+            "primary color": "#008000",
+            "secondary color": "#FFFFFF"
+        },
+        "50": {
+            "name": "Union Bears",
+            "primary color": "#800000",
+            "secondary color": "#000000"
+        }
+    },
+    "firstNames": [
+        "Liam", "Noah", "Oliver", "Elijah", "James", "William", "Benjamin", "Lucas", "Henry", "Theodore",
+        "Mateo", "Levi", "Sebastian", "Jack", "Owen", "Gabriel", "Asher", "Samuel", "Joseph", "John",
+        "David", "Wyatt", "Matthew", "Luke", "Julian", "Hudson", "Grayson", "Isaac", "Jayden", "Ezra",
+        "Anthony", "Lincoln", "Joshua", "Christopher", "Andrew", "Caleb", "Ryan", "Nathan", "Thomas", "Leo",
+        "Isaiah", "Charles", "Josiah", "Christian", "Hunter", "Eli", "Jonathan", "Connor", "Landon", "Adrian",
+        "Cameron", "Nolan", "Jeremiah", "Logan", "Easton", "Jordan", "Cooper", "Brayden", "Chase", "Myles",
+        "Parker", "Colin", "Ian", "Carson", "Axel", "Jaxson", "Dominic", "Austin", "Evan", "Adam",
+        "Xavier", "Jose", "Jace", "Declan", "Leonardo", "Brody", "Sawyer", "Micah", "Emmett", "Harrison",
+        "Ryder", "Bennett", "Cole", "Milo", "Jasper", "Vincent", "Roman", "Maxwell", "Alan", "Kai",
+        "Graham", "Beckett", "Spencer", "Ryker", "Kingston", "Jonah", "Miles", "Ezekiel", "Santiago", "Everett",
+        "Mason", "Ethan", "Aiden", "Jackson", "Logan", "Caden", "Grayson", "Jack", 
+        "Levi", "Gabriel", "Julian", "Mateo", "Anthony", "Jaxon", "Lincoln", "Asher", 
+        "Connor", "Landon", "Ezra", "Hudson", "Christian", "Maverick", "Ezekiel", 
+        "Cooper", "Isaiah", "Easton", "Thomas", "Nolan", "Charles", "Josiah", 
+        "Cameron", "Leo", "Jordan", "Carson", "Evan", "Santiago", "Nathan", "Angel", 
+        "Miles", "Eli", "Aaron", "Theodore", "Ryan", "Jace", "Dominic", "Lincoln", 
+        "Hunter", "Axel", "Parker", "Xavier", "Josiah", "Cooper", "Jeremiah", "Easton", 
+        "Roman", "Theodore", "Cole", "Ian", "Tristan", "Carson", "Axel", "Dominic"
+    ],
+    "lastNames": [
+        "Smith", "Johnson", "Williams", "Brown", "Jones", "Miller", "Davis", "Garcia", "Rodriguez", "Wilson",
+        "Martinez", "Anderson", "Taylor", "Thomas", "Hernandez", "Moore", "Martin", "Jackson", "Thompson", "White",
+        "Lopez", "Lee", "Gonzalez", "Harris", "Clark", "Lewis", "Robinson", "Walker", "Perez", "Hall",
+        "Young", "Allen", "Sanchez", "Wright", "King", "Scott", "Torres", "Nguyen", "Hill", "Flores",
+        "Green", "Adams", "Nelson", "Baker", "Hall", "Rivera", "Campbell", "Mitchell", "Carter", "Roberts",
+        "Gomez", "Phillips", "Evans", "Turner", "Diaz", "Parker", "Cruz", "Edwards", "Collins", "Reyes",
+        "Stewart", "Morris", "Morales", "Murphy", "Cook", "Rogers", "Gutierrez", "Ortiz", "Morgan", "Cooper",
+        "Peterson", "Bailey", "Reed", "Kelly", "Howard", "Ramos", "Kim", "Cox", "Ward", "Richardson",
+        "Watson", "Brooks", "Chavez", "Wood", "James", "Bennett", "Gray", "Mendoza", "Ruiz", "Hughes",
+        "Price", "Alvarez", "Castillo", "Sanders", "Patel", "Myers", "Long", "Ross", "Foster", "Jimenez",
+        "Powell", "Jenkins", "Perry", "Russell", "Sullivan", "Bell", "Coleman", "Butler", "Henderson", "Barnes",
+        "Gonzales", "Fisher", "Vasquez", "Simmons", "Romero", "Jordan", "Patterson", "Alexander", "Hamilton", "Graham",
+        "Reynolds", "Griffin", "Wallace", "Moreno", "West", "Cole", "Hayes", "Bryant", "Herrera", "Gibson",
+        "Ellis", "Tran", "Medina", "Aguilar", "Stevens", "Murray", "Ford", "Castro", "Marshall", "Owens",
+        "Harrison", "Fernandez", "Mcdonald", "Woods", "Washington", "Kennedy", "Wells", "Vargas", "Henry", "Cain",
+        "Chen", "Freeman", "Webb", "Tucker", "Guzman", "Burns", "Crawford", "Olson", "Simpson", "Porter",
+        "Hunter", "Gordon", "Mendez", "Silva", "Shaw", "Snyder", "Mason", "Dixon", "Munoz", "Hunt",
+        "Hicks", "Holmes", "Palmer", "Wagner", "Black", "Robertson", "Boyd", "Rose", "Stone", "Salazar",
+        "Fox", "Warren", "Mills", "Meyer", "Rice", "Schmidt", "Garza", "Daniels", "Ferguson", "Nichols",
+        "Stephens", "Soto", "Weaver", "Ryan", "Gardner", "Payne", "Grant", "Dunn", "Kelley", 
+        "Spencer", "Bates", "Beck", "Bishop", "Blackwell", "Blair", "Blake", "Bowers", "Boyd", 
+        "Bradley", "Brady", "Bridges", "Brock", "Buchanan", "Byrd", "Caldwell", 
+        "Calhoun", "Callahan", "Cameron", "Cannon", "Cardenas", "Carlson", "Carver", 
+        "Case", "Castaneda", "Cervantes", "Chambers", "Chandler", "Chaney", "Chapman", 
+        "Charles", "Chase", "Christensen", "Cisneros", "Clifton", "Cline", "Cobb", 
+        "Coffey", "Cohen", "Collier", "Conner", "Conrad", "Conway", "Cooke", "Cooley", 
+        "Cornwell", "Corbett", "Cortes", "Cotton", "Cowan", "Cowger", "Coyle", "Craig", 
+        "Crane", "Crawford", "Crichfield", "Cromer", "Cronin", "Crosby", "Cross", 
+        "Crouch", "Crowder", "Cunningham", "Curry", "Curtis", "Dahl", "Dalton", "Daniel", 
+        "Daugherty", "Davenport", "Davidson", "Davies", "Davila", "Davis", "Dawson", 
+        "Day", "Dean", "Decker", "Dejesus", "Delacruz", "Delgado", "Dennis", "Denny", 
+        "Denton", "Depew", "Derby", "Devito", "Devries", "Dewitt", "Diamond", "Diaz", 
+        "Dickerson", "Dickinson", "Dillard", "Dillon", "Dixon", "Dodge", "Doherty", "Dolan"
+  ]
+}

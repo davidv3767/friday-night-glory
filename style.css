@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-color: #f4f6f9;
+    gap: 10px;
+    font-family: "Courier New", monospace;
+}
+
+h1, h2, p {
+    margin: 10px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+p2 {
+    gap:5px;
+}
+
+.menu-button {
+    /* Removes browsers' default styling */
+    appearance: none;
+    background: #007bff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-family: "Courier New", monospace;
+    font-size: 1rem;
+    /* Core setup process */
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+    /* Transitions opacity when interacted with */
+    transition: opacity 0.2s ease;
+}
+
+.menu-button:hover {
+    opacity: 0.75;
+}
+
+.menu-button:focus-visible {
+  outline: 2px solid #000000;
+  outline-offset: 4px;
+}
