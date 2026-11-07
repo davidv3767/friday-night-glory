@@ -58,9 +58,9 @@ async function displayRandomTeam() {
     await retrieveJSON();
     ownTeam = randomTeam();
     if (ownTeam) {
-        document.getElementById("ownteam-name").innerText = team["name"];
-        document.getElementById("ownteam-color1").innerText = team["primary color"];
-        document.getElementById("ownteam-color2").innerText = team["secondary color"];
+        document.getElementById("ownteam-name").innerText = ownTeam["name"];
+        document.getElementById("ownteam-color1").innerText = ownTeam["primary color"];
+        document.getElementById("ownteam-color2").innerText = ownTeam["secondary color"];
     }
 }
 
@@ -125,4 +125,5 @@ function createRegion() {
 function wlIndex() {
     let randomNum = 0; // will change later
     let opposingTeam = regionTeams[0];
+    let oppStats = [opposingTeam["skill"], opposingTeam["luck"]]
 }
